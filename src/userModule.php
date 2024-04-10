@@ -9,7 +9,7 @@ class UserModule extends Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'abhishekbhadauria421\UserModule\Controllers';
+    public $controllerNamespace = 'abhishekbhadauria421\UserModule\controllers';
 
     /**
      * {@inheritdoc}
