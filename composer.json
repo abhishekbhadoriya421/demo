@@ -1,0 +1,21 @@
+{
+    "name": "abhi/user-module",
+    "description": "A user module for Yii2 framework",
+    "type": "library",
+    "keywords": ["yii2", "user", "module"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your_email@example.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "abhi\\UserModule\\": "src/"
+        }
+    }
+}
