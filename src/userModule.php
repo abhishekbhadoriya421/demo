@@ -1,6 +1,6 @@
 <?php
 
-namespace abhi\UserModule;
+namespace abhishekbhadauria421\UserModule;
 
 use yii\base\Module;
 
@@ -9,7 +9,7 @@ class UserModule extends Module
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'abhi\UserModule\Controllers';
+    public $controllerNamespace = 'abhishekbhadauria421\UserModule\Controllers';
 
     /**
      * {@inheritdoc}

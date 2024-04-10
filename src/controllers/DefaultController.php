@@ -1,6 +1,6 @@
 <?php
 
-namespace abhi\UserModule\controllers;
+namespace abhishekbhadauria421\UserModule\controllers;
 
 use yii\web\Controller;
 

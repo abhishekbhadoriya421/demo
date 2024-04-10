@@ -1,5 +1,5 @@
 {
-    "name": "abhi/user-module",
+    "name": "abhishekbhadauria421/user-module",
     "description": "A user module for Yii2 framework",
     "type": "library",
     "keywords": ["yii2", "user", "module"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "abhi\\UserModule\\": "src/"
+            "abhishekbhadauria421\\UserModule\\": "src/"
         }
     }
 }
